@@ -1,0 +1,46 @@
+h1, h2, h3 {
+  font-weight: 400; 
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 8px;
+  border-bottom-style: solid;
+  border-color: gray;
+  border-width: 1px;
+}
+
+p {
+  margin-bottom: 12px;
+}
+
+.header-title{
+  font-size: 18px;
+  border-bottom: none;
+  margin-bottom: 10px;
+}
+
+#header {
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+#footer {
+  margin-top: 64px;
+  text-align: center;
+}
+
+span.nameofwork, .education {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+span.years {
+  font-size: 14px;
+  font-style: italic;
+}
